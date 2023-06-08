@@ -1,0 +1,23 @@
+body {
+    background-color: #EBECEF;
+}
+.centered {
+    padding-top: 100px;
+    text-align: center;
+}
+.header {
+  
+    font-weight: 800;
+
+}
+.btn {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.secret-text {
+    padding: 80px;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #000;
+}
